@@ -1,6 +1,6 @@
 # 🚀 Meet Daniel: Bridging Physics and Code
 
-Greetings! I'm Daniel, a passionate physicist and full-stack developer currently orchestrating innovation at Titan Intake. I bring a unique blend of scientific insights and over 5 years of freelance programming prowess to the table. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors.
+Greetings! I'm Daniel, a passionate physicist and full-stack developer currently orchestrating innovation at Titan Intake. I bring a unique blend of scientific insights and over 5 years of freelance programming prowess to the table. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors. You can look at [my webpage to learn more](http://daniel-m.github.io/blog)
 
 ## 💡 Innovative Problem Solver
 
@@ -12,11 +12,16 @@ Armed with excellent communication skills, I am an eloquent, empathetic, and con
 
 ## 📝 Intermittent Blogger, Consistent Programmer
 
-While I may not have the luxury of blogging consistently, my occasional insights into the world of computer programming can be found at http://daniel-m.github.io. For a deeper dive into my professional journey, research, and coding projects, explore my various social media platforms linked there.
+While I may not have the luxury of blogging consistently, my occasional insights into the world of computer programming can be found at [http://daniel-m.github.io](http://daniel-m.github.io/blog). For a deeper dive into my professional journey, research, and coding projects, explore my various social media platforms linked there.
 
 ## 👉 What's on My Plate Now?
 
-I'm intrigued by the ["nownownow" philosophy](https://nownownow.com/about).
+I'm intrigued by the ["nownownow" philosophy](https://nownownow.com/about), in summary I'm doing these,
+
+- Trying to keep up with Calisthenics for fitness and general wellness
+- Studying an amazing book on Topology, [Introduction to Topology by Gamelin and Green](https://a.co/d/3ftQrGR)
+- Learning [NextJS](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/) to build a web app
+- Delivering value at [Titan Intake](https://www.titanintake.com) as fullstack developer in ReactJS(Typescript), NodeJS (Typescript), and Python
 
 ### 💻 Workplace
 
@@ -24,7 +29,7 @@ I'm currently working for [Titan Intake](https://www.titanintake.com/) as a full
 
 ### 🚀 Personal Projects
 
-I'm also working on a personal project to build a web application for [my blog](http://daniel-m.github.io).
+I'm also working on a personal project to build a web application for managing food orders, this is part of my goal to get better at NextJS and Golang.
 
 ## 🔬 Academic Passions
 
