@@ -1,6 +1,6 @@
 # 🚀 Meet Daniel: Bridging Physics and Code
 
-Greetings! I'm Daniel, a passionate physicist and full-stack developer currently orchestrating innovation at Titan Intake. I bring a unique blend of scientific insights and over 5 years of freelance programming prowess to the table. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors. You can look at [my webpage to learn more](http://daniel-m.github.io/blog)
+Greetings! I'm Daniel, a passionate physicist and full-stack developer currently orchestrating innovation at Titan Intake. I bring a unique blend of scientific insights and over 5 years of freelance programming prowess to the table. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors. You can look at [my webpage to learn more](http://daniel-m.github.io/posts)
 
 ## 💡 Innovative Problem Solver
 
@@ -12,7 +12,7 @@ Armed with excellent communication skills, I am an eloquent, empathetic, and con
 
 ## 📝 Intermittent Blogger, Consistent Programmer
 
-While I may not have the luxury of blogging consistently, my occasional insights into the world of computer programming can be found at [http://daniel-m.github.io](http://daniel-m.github.io/blog). For a deeper dive into my professional journey, research, and coding projects, explore my various social media platforms linked there.
+While I may not have the luxury of blogging consistently, my occasional insights into the world of computer programming can be found at [http://daniel-m.github.io](http://daniel-m.github.io/posts). For a deeper dive into my professional journey, research, and coding projects, explore my various social media platforms linked there.
 
 ## 👉 What's on My Plate Now?
 
