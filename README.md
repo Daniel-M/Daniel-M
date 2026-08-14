@@ -12,12 +12,33 @@ Armed with excellent communication skills, I am an eloquent, empathetic, and con
 
 While I may not have the luxury of blogging consistently, my occasional insights into the world of computer programming can be found at [http://daniel-m.github.io](http://daniel-m.github.io). For a deeper dive into my professional journey, research, and coding projects, explore my various social media platforms linked at my home page.
 
+
+## What is my tech-stack?
+I'll list out the outstanding technologies I have used during the last five years, the most recent are listed first, as I have freelanced for 5 years before working for Titan Intake, I'm sure I'm missing several things
+
+### Languages
+ - Nodejs with Typescript (ExpressJS, KoaJS, Apollo GraphQL, DynamoDB, Elasticsearch, Redis)
+ - React with Typescript (StyledComponents, Tanstack React Query)
+ - Python (LLMs, Pytorch, Flask, Pandas, Matplotlib)
+ - Golang (pure stdlib Http servers, GraphQL, Redis)
+
+### Cloud and infrastructure
+ - Terraform on AWS (AWS Lambda, S4, API Gateway, DynamoDB, Opensearch, CloudWatch)
+ - Kubernetes clusters on GPC
+
+### Databases
+ - DynamoDB
+ - PostgreSQL
+ - MongoDB
+ - Redis
+
 ## What I'm proud of?
 
 Personally, I'm proud of my neurodivergent nature, I really like the person I am and the life I have built. I'm proud of my grit, my initiative and creativity to get things done.
 
 As a software engineer I'm proud of
  - Creating and maintaining an scheduled multi step web-scraping data ingestion pipeline that included fine-tuned DeepLearning and MachineLearning clustering models for clothing classification for a fashiontech startup during the 2019-2021 period. I did other things but this is what I'm most proud of
+ - A short project for a fintech that wanted to migrate an algorithm from one language to another, found what seemed a bug, turned out to be a flaw in their algorithm itself.
  - A GraphQL backend for IoT and a RESTful data ingestion API, with small memory fingerprint, during 2021-2022 period. Later migrated this backend to go and it was 10x performant, lower fingerprint and faster response times
  - Working for Titan Intake 2023-2026, as a full-stack (NodeJS-React) at first, later backend focused between internal API service and  AI building a customized document classification engine integrated with a custom MLOps pipeline that reported service quality metrics.
 
@@ -29,7 +50,7 @@ I find the practice of the [nownownow](https://nownownow.com/about) really inter
 
 > So a website with a link that says “now” goes to a page that tells you what this person is focused on at this point in their life. For short, we call it a “now page”.
 
-go ahead and [check my now, now](http://daniel-m.github.io/now).
+go ahead and [check my now, now](/now).
 
 ## Workplace
 
