@@ -14,7 +14,7 @@ While I may not have the luxury of blogging consistently, my occasional insights
 
 
 ## What is my tech-stack?
-I'll list out the outstanding technologies I have used during the last five years, the most recent are listed first, as I have freelanced for 5 years before working for Titan Intake, I'm sure I'm missing several things
+I'll list out the outstanding technologies I have used during the last five years, the most recent are listed first, as I have freelanced for 5 years before working for Titan Intake for another three years with an stable stack, I'm sure I'm missing several things
 
 ### Languages
  - Nodejs with Typescript (ExpressJS, KoaJS, Apollo GraphQL, DynamoDB, Elasticsearch, Redis)
