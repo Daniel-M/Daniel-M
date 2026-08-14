@@ -1,44 +1,53 @@
-# 🚀 Meet Daniel: Bridging Physics and Code
+# Daniel-M
+*Last updated: August 13, 2026*
 
-Greetings! I'm Daniel, a passionate physicist and full-stack developer currently orchestrating innovation at Titan Intake. I bring a unique blend of scientific insights and over 5 years of freelance programming prowess to the table. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors. You can look at [my webpage to learn more](http://daniel-m.github.io/posts)
+## Who am I?
 
-## 💡 Innovative Problem Solver
+Greetings! My name is Daniel, a passionate physicist, nerdy person, backend-focused full-stack developer. I see myself as a generalist software developer with experience in Machine Learning, LLMs and CNNs for Deeplearning.
+What's special about me is that I bring a unique blend of scientific insights and over 8 years of professional programming prowess to the table. I have 10+ writing code for fun and science research. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors.
 
 My background as a scientist allows me to craft creative solutions to diverse challenges, I thrive in adopting clever approaches to meet project requirements.
 
-## 🤝 Keen for Mutual Cooperation
-
 Armed with excellent communication skills, I am an eloquent, empathetic, and conciliatory team player. I firmly believe in the power of mutual cooperation to achieve remarkable results. Witnessing my teammates grow and excel is not just a goal but a source of inspiration.
 
-## 📝 Intermittent Blogger, Consistent Programmer
+While I may not have the luxury of blogging consistently, my occasional insights into the world of computer programming can be found at [http://daniel-m.github.io](http://daniel-m.github.io). For a deeper dive into my professional journey, research, and coding projects, explore my various social media platforms linked at my home page.
 
-While I may not have the luxury of blogging consistently, my occasional insights into the world of computer programming can be found at [http://daniel-m.github.io](http://daniel-m.github.io/posts). For a deeper dive into my professional journey, research, and coding projects, explore my various social media platforms linked there.
+## What I'm proud of?
 
-## 👉 What's on My Plate Now?
+Personally, I'm proud of my neurodivergent nature, I really like the person I am and the life I have built. I'm proud of my grit, my initiative and creativity to get things done.
 
-I'm intrigued by the ["nownownow" philosophy](https://nownownow.com/about), in summary I'm doing these,
+As a software engineer I'm proud of
+ - Creating and maintaining an scheduled multi step web-scraping data ingestion pipeline that included fine-tuned DeepLearning and MachineLearning clustering models for clothing classification for a fashiontech startup during the 2019-2021 period. I did other things but this is what I'm most proud of
+ - A GraphQL backend for IoT and a RESTful data ingestion API, with small memory fingerprint, during 2021-2022 period. Later migrated this backend to go and it was 10x performant, lower fingerprint and faster response times
+ - Working for Titan Intake 2023-2026, as a full-stack (NodeJS-React) at first, later backend focused between internal API service and  AI building a customized document classification engine integrated with a custom MLOps pipeline that reported service quality metrics.
 
-- Trying to keep up with Calisthenics for fitness and general wellness
-- Studying an amazing book on Topology, [Introduction to Topology by Gamelin and Green](https://a.co/d/3ftQrGR)
-- Learning [NextJS](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/) to build a web app
-- Delivering value at [Titan Intake](https://www.titanintake.com) as fullstack developer in ReactJS(Typescript), NodeJS (Typescript), and Python
+As a physicist, I'm proud of working with computer simulations and experimental data. I'm really proud of my equation to calibrate flourescence signals, that's published at the [Journal of Muscle Research and Cell Motility *"A new set of equations for the simplified calibration of fluorescence Ca2+ transients in skeletal muscle fibers"*](https://link.springer.com/article/10.1007/s10974-021-09597-8)
 
-### 💻 Workplace
+## What is on my plate now?
 
-I'm currently working for [Titan Intake](https://www.titanintake.com/) as a full-stack developer, building a web application to streamline the process of patient referral intake.
+I find the practice of the [nownownow](https://nownownow.com/about) really interesting,
 
-### 🚀 Personal Projects
+> So a website with a link that says “now” goes to a page that tells you what this person is focused on at this point in their life. For short, we call it a “now page”.
 
-I'm also working on a personal project to build a web application for managing food orders, this is part of my goal to get better at NextJS and Golang.
+go ahead and [check my now, now](http://daniel-m.github.io/now).
 
-## 🔬 Academic Passions
+## Workplace
 
-Beyond the coding realm, my academic interests gravitate towards biological systems, with a particular fascination for electrophysiology and systems biology. I delve into the intricate worlds of chemical reaction networks and reaction-diffusion frameworks, exploring the poetry of interconnected systems.
+Open for work, not currently under any contract
+
+## Personal Projects
+
+I have several side quests, I'll list them out once I feel them ready.
+
+## Academic Passions
+
+Beyond the coding realm, my academic interests gravitate towards biological systems, with a particular fascination for electrophysiology, systems biology and complex systems. I delve into the intricate worlds of chemical reaction networks and reaction-diffusion frameworks, exploring the poetry of interconnected systems. I'm thinking on working with chaos and dynamical systems theory applied to biological system modeling.
 
 ## 💬 Connect with me!
 
 Wanna know more? Connect with me on any social network below,
 
+- [Whatsapp](https://wa.me/danielmejia55)
 - [Telegram](https://t.me/danielmejia55)
 - [Linkedin](https://www.linkedin.com/in/danielmej%C3%ADa55/)
 - [Github](https://github.com/Daniel-M/)
