@@ -4,7 +4,7 @@
 ## Who am I?
 
 Greetings! My name is Daniel, a passionate physicist, nerdy person, backend-focused full-stack developer. I see myself as a generalist software developer with experience in Machine Learning, LLMs and CNNs for Deeplearning.
-What's special about me is that I bring a unique blend of scientific insights and over 8 years of professional programming prowess to the table. I have 10+ writing code for fun and science research. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors.
+What's special about me is that I bring a unique blend of scientific insights and over 9 years of professional programming prowess to the table. I have 10+ years writing code for fun and science research. My relentless curiosity and boundless enthusiasm for learning fuel both my professional and personal endeavors.
 
 My background as a scientist allows me to craft creative solutions to diverse challenges, I thrive in adopting clever approaches to meet project requirements.
 
