@@ -19,7 +19,7 @@ I'll list out the outstanding technologies I have used during the last five year
 ### Languages
  - Nodejs with Typescript (ExpressJS, KoaJS, Apollo GraphQL, DynamoDB, Elasticsearch, PostgreSQL, MongoDB, Redis)
  - React with Typescript (StyledComponents, Tanstack React Query)
- - Python (LLMs, Pytorch, Flask, Pandas, Matplotlib)
+ - Python (LLMs (AWS Bedrock, MS Azure, GCP, OpenAI) , Pytorch, Flask, Pandas, Matplotlib)
  - Golang (pure stdlib Http servers, GraphQL, MongoDB, PostgreSQL, InfluxDB, Redis)
 
 ### Cloud and infrastructure
