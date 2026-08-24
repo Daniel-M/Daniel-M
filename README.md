@@ -17,10 +17,10 @@ While I may not have the luxury of blogging consistently, my occasional insights
 I'll list out the outstanding technologies I have used during the last five years, the most recent are listed first, as I have freelanced for 5 years before working for Titan Intake for another three years with an stable stack, I'm sure I'm missing several things
 
 ### Languages
- - Nodejs with Typescript (ExpressJS, KoaJS, Apollo GraphQL, DynamoDB, Elasticsearch, Redis)
+ - Nodejs with Typescript (ExpressJS, KoaJS, Apollo GraphQL, DynamoDB, Elasticsearch, PostgreSQL, MongoDB, Redis)
  - React with Typescript (StyledComponents, Tanstack React Query)
  - Python (LLMs, Pytorch, Flask, Pandas, Matplotlib)
- - Golang (pure stdlib Http servers, GraphQL, Redis)
+ - Golang (pure stdlib Http servers, GraphQL, MongoDB, PostgreSQL, InfluxDB, Redis)
 
 ### Cloud and infrastructure
  - Terraform on AWS (AWS Lambda, S4, API Gateway, DynamoDB, Opensearch, CloudWatch)
@@ -29,7 +29,9 @@ I'll list out the outstanding technologies I have used during the last five year
 ### Databases
  - DynamoDB
  - PostgreSQL
+ - Elasticsearch
  - MongoDB
+ - InfluxDB
  - Redis
 
 ## What I'm proud of?
