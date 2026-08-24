@@ -42,7 +42,7 @@ As a software engineer I'm proud of
  - Creating and maintaining an scheduled multi step web-scraping data ingestion pipeline that included fine-tuned DeepLearning and MachineLearning clustering models for clothing classification for a fashiontech startup during the 2019-2021 period. I did other things but this is what I'm most proud of
  - A short project for a fintech that wanted to migrate an algorithm from one language to another, found what seemed a bug, turned out to be a flaw in their algorithm itself.
  - A GraphQL backend for IoT and a RESTful data ingestion API, with small memory fingerprint, during 2021-2022 period. Later migrated this backend to go and it was 10x performant, lower fingerprint and faster response times
- - Working for Titan Intake 2023-2026, as a full-stack (NodeJS-React) at first, later backend focused between internal API service and  AI building a customized document classification engine integrated with a custom MLOps pipeline that reported service quality metrics.
+ - Working for Titan Intake 2023-2026, as a full-stack (NodeJS(TS)-React(TS)) at first, later backend focused (NodeJS(TS)/Python) between internal API services and AI building a customized document classification engine integrated with a custom MLOps pipeline that reported service quality metrics. ((TS) Stands for Typescript)
 
 As a physicist, I'm proud of working with computer simulations and experimental data. I'm really proud of my equation to calibrate flourescence signals, that's published at the [Journal of Muscle Research and Cell Motility *"A new set of equations for the simplified calibration of fluorescence Ca2+ transients in skeletal muscle fibers"*](https://link.springer.com/article/10.1007/s10974-021-09597-8)
 
